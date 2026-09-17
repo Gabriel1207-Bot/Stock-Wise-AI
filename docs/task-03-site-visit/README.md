@@ -9,14 +9,14 @@ For Task 3, our group needed to look at how a typical municipal warehouse operat
 
 ### Storage and Shelving
 ![Figure 1](images/factoryshelfpackage.jpg)
-*Figure 1: Factory packaging area. Fast-moving items are not kept near the dispatch area.*
+*Figure 1: Warehouse storage area with numbered aisles. Stock is placed in static locations, forcing workers to search for items.*
 
 ![Figure 2](images/facade-shelfstadiumpackage.jpg)
-*Figure 2: Warehouse shelves with mixed stock. Items are just placed wherever there is space.*
+*Figure 2: Distribution and sorting line. Boxes are moved automatically, but there is no real-time tracking without manual checks.*
 
 ### Manual Record-Keeping
 ![Figure 3](images/stocksupermarketpackaging.jpg)
-*Figure 3: Supermarket stock packaging. Inventory is counted by hand.*
+*Figure 3: A forklift moving through the warehouse. Fast-moving items are not kept near the dispatch area, causing long travel times.*
 
 ![Figure 4](images/warehouselogbook1.jpg)
 *Figure 4: A manual logbook used to record stock. It's easy to make mistakes here.*
