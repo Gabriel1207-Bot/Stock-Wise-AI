@@ -8,11 +8,11 @@ For Task 3, our group needed to look at how a typical municipal warehouse operat
 ## 2. Pictures of the Warehouse Setup
 
 ### Storage and Shelving
-![Figure 1](images/facade-shelfstadiumpackage.jpg)
-*Figure 1: Warehouse shelves with mixed stock. Items are just placed wherever there is space.*
+![Figure 1](images/factoryshelfpackage.jpg)
+*Figure 1: Factory packaging area. Fast-moving items are not kept near the dispatch area.*
 
-![Figure 2](https://github.com/Gabriel1207-Bot/Stock-Wise-AI/blob/main/docs/task-03-site-visit/images/factoryshelfpackage.jpg?raw=true)
-*Figure 2: Factory packaging area. Fast-moving items are not kept near the dispatch area.*
+![Figure 2](images/facade-shelfstadiumpackage.jpg)
+*Figure 2: Warehouse shelves with mixed stock. Items are just placed wherever there is space.*
 
 ### Manual Record-Keeping
 ![Figure 3](images/stocksupermarketpackaging.jpg)
