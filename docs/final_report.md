@@ -1,9 +1,9 @@
-# Stockwise AI: Final Project Documentation
+# Stockwise AI: Final(draft) Project Documentation
 
 **Module:** Business Analysis 3.2 Capstone AI Project
 **Theme:** AI Solution for Industries
-**Group Name:** [Insert Group Name]
-**Date:** September 2026
+**Group Name:** Stockwise AI
+**Date:** 02 November 2026
 
 ---
 
