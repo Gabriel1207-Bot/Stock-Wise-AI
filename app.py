@@ -15,9 +15,9 @@ else:
     st.dataframe(df.head(10))
 
 st.subheader("AI Alerts")
-st.warning("⚠️ Low Stock: 16mm Electrical Cable (15 units left)")
-st.error("🚨 Anomaly Detected: Picking time over 600 seconds on Item 45. Possible theft.")
-st.success("✅ Forecast: High demand for pipes expected. Order now.")
+st.warning("Low Stock: 16mm Electrical Cable (15 units left)")
+st.error("Anomaly Detected: Picking time over 600 seconds on Item 45. Possible theft.")
+st.success("Forecast: High demand for pipes expected. Order now.")
 
 st.subheader("Chatbot Interface")
 user_input = st.text_input("Ask the warehouse bot (e.g., 'Where is the blue cable?'):")
